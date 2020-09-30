@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+layout: page
+title: "Subtitling Experiment"
+oermalink: /subtitling-experiment/
+
